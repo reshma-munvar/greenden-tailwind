@@ -24,7 +24,7 @@ Feel free to clone this repository, and explore or contribute! 🌱
 - Easy navigation between pages
 
 ### Installation & Usage:
-1. Clone the repository:
+1. Clone the repository:https://reshma-munvar.github.io/greenden-tailwind/contact.html
 2. Open the project in your favorite code editor.
 3. Run the `index.html` file to view the website locally.
 
